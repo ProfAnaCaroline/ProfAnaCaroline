@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ProfAnaCaroline
-- 👀 I’m interested in  learn about programation 
-- 🌱 I’m currently learni  programing
+- 👋 Olá, me chamo Ana Caroline Tazinasso, sou professora na rede Estadual do Paraná, nas disciplinas de Pensamento Computacional, Filosofia, Arte, Projeto de Vida e no Programa de Ampliação de Jornada Escolar - EDUTECH.
+- 👀 Estou interessada em aprender novas linguagens de programação.
 - 💞️ I’m looking to collaborateng  on learning of my students
 
 
